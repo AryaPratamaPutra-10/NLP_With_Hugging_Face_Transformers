@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 </div>
 
+<div align="center">
 <h2 align="center"> Analisis </h2>
 <p1>- Zero-Shot Classification
 Merupakan jenis klasifikasi dengan metode Zero-Shot yang dimana metode ini mengklasifikasi teks ke dalam label yang diberikan sesuai dengan kategorinya dan semakin mendekati 1 berarti semakin akurat, metode ini mencoba menghubungkan konsep dengan hubungan kata - kata </p1>
@@ -21,3 +22,4 @@ Merupakan jenis klasifikasi dengan metode Zero-Shot yang dimana metode ini mengk
 
 
 Kesimpulan = Dalam menggunakan model NLP pemilihan segmentasi teks sangatlah penting mulai dari kalimat, teks, konteks, pertanyaan karena semuanya saling berkesinambungan dan semakin lengkap atau bagus sebuah data yang disini saya gunakan adalah sebuah kumpulan teks maka semakin bagus juga model akan bekerja untuk melakukan segmentasi teks nya serta akurasi yang diharapkan semakin tinggi. Ada berbagai jenis model pipeline yang bisa kita gunakan untuk NLP tergantung kebutuhan ada Translator untuk menerjemahkan antar bahasa, qa untuk menjawab pertanyaan contoh penggunaannya ada di chtbot, ada classifier yang digunakan untuk menentukan apakah kalimatnya berisi segmentasi postitif atau negatif biasanya digunakan untuk analisis rating sebuah produk di marketplace berdasarkan ulasan pelanggan, ada summarizer untuk meringkas sebuah teks contoh penggunaanya di pharaprase.
+</div>
